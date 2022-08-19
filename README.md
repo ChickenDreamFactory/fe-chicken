@@ -29,12 +29,12 @@
 
 ## topic
 
-- [23.阿里面试题](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
-- [24.蚂蚁金服](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
-- [25.快手一面](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
-- [26.拼多多](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
-- [27.微盟一面](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
-- [28.小红书](https://github.com/ChickenDreamFactory/fe-chicken/issues/1)
+- [23.阿里面试题](https://github.com/ChickenDreamFactory/fe-chicken/issues/23)
+- [24.蚂蚁金服](https://github.com/ChickenDreamFactory/fe-chicken/issues/24)
+- [25.快手一面](https://github.com/ChickenDreamFactory/fe-chicken/issues/25)
+- [26.拼多多](https://github.com/ChickenDreamFactory/fe-chicken/issues/26)
+- [27.微盟一面](https://github.com/ChickenDreamFactory/fe-chicken/issues/27)
+- [28.小红书](https://github.com/ChickenDreamFactory/fe-chicken/issues/28)
 
 ## scene
 
