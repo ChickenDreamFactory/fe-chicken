@@ -43,7 +43,7 @@
 - [31.数组转tree结构的数据](https://github.com/ChickenDreamFactory/fe-chicken/issues/31)
 - [32.如何遍历一个dom树](https://github.com/ChickenDreamFactory/fe-chicken/issues/32)
 - [33.实现一个event类(订阅发布) 含有on off once emit方法](https://github.com/ChickenDreamFactory/fe-chicken/issues/33)
-- [34.event-loop](https://github.com/ChickenDreamFactory/fe-chicken/issues/34)
+- [34.实战event-loop任务优先级](https://github.com/ChickenDreamFactory/fe-chicken/issues/34)
 - [35.event-loop2](https://github.com/ChickenDreamFactory/fe-chicken/issues/35)
 - [36.findAll](https://github.com/ChickenDreamFactory/fe-chicken/issues/36)
 - [37.find-target](https://github.com/ChickenDreamFactory/fe-chicken/issues/37)
