@@ -46,7 +46,7 @@
 - [34.实战event-loop任务优先级](https://github.com/ChickenDreamFactory/fe-chicken/issues/34)
 - [35.event-loop2](https://github.com/ChickenDreamFactory/fe-chicken/issues/35)
 - [36.findAll](https://github.com/ChickenDreamFactory/fe-chicken/issues/36)
-- [37.find-target](https://github.com/ChickenDreamFactory/fe-chicken/issues/37)
+- [37.找到数组中相加为target的两个值](https://github.com/ChickenDreamFactory/fe-chicken/issues/37)
 - [38.flattenObj](https://github.com/ChickenDreamFactory/fe-chicken/issues/38)
 - [39.获取页面中的所有标签名](https://github.com/ChickenDreamFactory/fe-chicken/issues/39)
 - [40.累乘和累乘缓存](https://github.com/ChickenDreamFactory/fe-chicken/issues/40)
