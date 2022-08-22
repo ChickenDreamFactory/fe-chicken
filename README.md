@@ -50,7 +50,7 @@
 - [38.flattenObj](https://github.com/ChickenDreamFactory/fe-chicken/issues/38)
 - [39.获取页面中的所有标签名](https://github.com/ChickenDreamFactory/fe-chicken/issues/39)
 - [40.累乘和累乘缓存](https://github.com/ChickenDreamFactory/fe-chicken/issues/40)
-- [41.numAdd](https://github.com/ChickenDreamFactory/fe-chicken/issues/41)
+- [41.如何通过代码解决浮点数计算不准的问题以及浮点数不准的原因](https://github.com/ChickenDreamFactory/fe-chicken/issues/41)
 - [42.proto-console](https://github.com/ChickenDreamFactory/fe-chicken/issues/42)
 - [43.判断符号组成的字符串是否正确](https://github.com/ChickenDreamFactory/fe-chicken/issues/43)
 - [44.控制并发数目](https://github.com/ChickenDreamFactory/fe-chicken/issues/44)
