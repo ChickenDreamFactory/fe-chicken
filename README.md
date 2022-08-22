@@ -55,7 +55,7 @@
 - [43.判断符号组成的字符串是否正确](https://github.com/ChickenDreamFactory/fe-chicken/issues/43)
 - [44.控制并发数目](https://github.com/ChickenDreamFactory/fe-chicken/issues/44)
 - [45.实现一个简单的模板引擎](https://github.com/ChickenDreamFactory/fe-chicken/issues/45)
-- [46.time](https://github.com/ChickenDreamFactory/fe-chicken/issues/46)
+- [46.JS转换时间戳为刚刚、几分钟前、几小时前、几天前、几周前、几个月前等格式](https://github.com/ChickenDreamFactory/fe-chicken/issues/46)
 - [47.数字千分位处理](https://github.com/ChickenDreamFactory/fe-chicken/issues/47)
 - [48.红绿灯算法](https://github.com/ChickenDreamFactory/fe-chicken/issues/48)
 - [49.url-parse](https://github.com/ChickenDreamFactory/fe-chicken/issues/49)
