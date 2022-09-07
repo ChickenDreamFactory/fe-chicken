@@ -60,4 +60,29 @@
 - [48.红绿灯算法](https://github.com/ChickenDreamFactory/fe-chicken/issues/48)
 - [49.url-parse](https://github.com/ChickenDreamFactory/fe-chicken/issues/49)
 
+## 手写基础
+
+- [50.apply]()
+- [51.async await]()
+- [52.bind]()
+- [53.call]()
+- [54.concurrent-request]()
+- [55.debounce]()
+- [56.deep-copy]()
+- [57.event-bus]()
+- [58.inherit]()
+- [59.instanceof]()
+- [60.new]()
+- [61.object-create]()
+- [62.primise]()
+- [63.throttle]()
+
+
+
+
+
+
+
+
+
 
