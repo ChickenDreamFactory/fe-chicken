@@ -62,27 +62,20 @@
 
 ## 手写基础
 
-- [50.apply]()
-- [51.async await]()
-- [52.bind]()
-- [53.call]()
-- [54.concurrent-request]()
-- [55.debounce]()
-- [56.deep-copy]()
-- [57.event-bus]()
-- [58.inherit]()
-- [59.instanceof]()
-- [60.new]()
-- [61.object-create]()
-- [62.primise]()
-- [63.throttle]()
-
-
-
-
-
-
-
+- [50.apply](https://github.com/ChickenDreamFactory/fe-chicken/issues/50)
+- [51.async await](https://github.com/ChickenDreamFactory/fe-chicken/issues/51)
+- [52.bind](https://github.com/ChickenDreamFactory/fe-chicken/issues/52)
+- [53.call](https://github.com/ChickenDreamFactory/fe-chicken/issues/53)
+- [54.concurrent-request](https://github.com/ChickenDreamFactory/fe-chicken/issues/54)
+- [55.debounce](https://github.com/ChickenDreamFactory/fe-chicken/issues/55)
+- [56.deep-copy](https://github.com/ChickenDreamFactory/fe-chicken/issues/56)
+- [57.event-bus](https://github.com/ChickenDreamFactory/fe-chicken/issues/57)
+- [58.inherit](https://github.com/ChickenDreamFactory/fe-chicken/issues/58)
+- [59.instanceof](https://github.com/ChickenDreamFactory/fe-chicken/issues/59)
+- [60.new](https://github.com/ChickenDreamFactory/fe-chicken/issues/60)
+- [61.object-create](https://github.com/ChickenDreamFactory/fe-chicken/issues/61)
+- [62.primise](https://github.com/ChickenDreamFactory/fe-chicken/issues/62)
+- [63.throttle](https://github.com/ChickenDreamFactory/fe-chicken/issues/63)
 
 
 
