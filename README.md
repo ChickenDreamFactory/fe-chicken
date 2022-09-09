@@ -1,6 +1,8 @@
 # fe-chicken
 
-场景代码题-API实现原理-实战题目
+场景代码题-API实现原理-实战题目  💬 微信交流: xiaoda0423⚡ 👉 如果你有问题
+
+<img width="300px" src="https://user-images.githubusercontent.com/59645426/189252658-27a74605-ecdc-469a-a032-dcd767aeb06d.png"/>
 
 ## js-api
 
