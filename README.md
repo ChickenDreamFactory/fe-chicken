@@ -79,5 +79,23 @@
 - [62.primise](https://github.com/ChickenDreamFactory/fe-chicken/issues/62)
 - [63.throttle](https://github.com/ChickenDreamFactory/fe-chicken/issues/63)
 
+## API实现原理
+
+- [64.手写all和apply](https://github.com/ChickenDreamFactory/fe-chicken/issues/64)
+- [65.手写new和bind](https://github.com/ChickenDreamFactory/fe-chicken/issues/65)
+- [66.手写柯里化函数](https://github.com/ChickenDreamFactory/fe-chicken/issues/66)
+- [67.实现一个sum函数](https://github.com/ChickenDreamFactory/fe-chicken/issues/67)
+- [68.实现Event](https://github.com/ChickenDreamFactory/fe-chicken/issues/68)
+- [69.红路灯](https://github.com/ChickenDreamFactory/fe-chicken/issues/69)
+- [70.手写一个偏函数](https://github.com/ChickenDreamFactory/fe-chicken/issues/70)
+- [71.实现instanceof](https://github.com/ChickenDreamFactory/fe-chicken/issues/71)
+- [72.实现object.create](https://github.com/ChickenDreamFactory/fe-chicken/issues/72)
+- [73.实现object.assign](https://github.com/ChickenDreamFactory/fe-chicken/issues/73)
+- [74.实现原型链继承-借用构造函数继承-组合继承](https://github.com/ChickenDreamFactory/fe-chicken/issues/74)
+- [75.实现原型式继承-寄生式继承-寄生组合式继承](https://github.com/ChickenDreamFactory/fe-chicken/issues/75)
+- [76.请写出ES6中的class继承与ES5继承的区别](https://github.com/ChickenDreamFactory/fe-chicken/issues/76)
+- [77.promise](https://github.com/ChickenDreamFactory/fe-chicken/issues/77)
+- [78.实现一个深拷贝](https://github.com/ChickenDreamFactory/fe-chicken/issues/78)
+- [79.MiniPromise](https://github.com/ChickenDreamFactory/fe-chicken/issues/79)
 
 
