@@ -81,7 +81,7 @@
 
 ## API实现原理
 
-- [64.手写all和apply](https://github.com/ChickenDreamFactory/fe-chicken/issues/64)
+- [64.手写call和apply](https://github.com/ChickenDreamFactory/fe-chicken/issues/64)
 - [65.手写new和bind](https://github.com/ChickenDreamFactory/fe-chicken/issues/65)
 - [66.手写柯里化函数](https://github.com/ChickenDreamFactory/fe-chicken/issues/66)
 - [67.实现一个sum函数](https://github.com/ChickenDreamFactory/fe-chicken/issues/67)
