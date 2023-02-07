@@ -98,4 +98,14 @@
 - [78.实现一个深拷贝](https://github.com/ChickenDreamFactory/fe-chicken/issues/78)
 - [79.MiniPromise](https://github.com/ChickenDreamFactory/fe-chicken/issues/79)
 
+## 积累
+
+- [80.使用git](https://github.com/ChickenDreamFactory/fe-chicken/issues/80)
+
+
+
+
+
+
+
 
