@@ -101,7 +101,8 @@
 ## 积累
 
 - [80.使用git](https://github.com/ChickenDreamFactory/fe-chicken/issues/80)
-
+- [81.移动端适配方案](https://github.com/ChickenDreamFactory/fe-chicken/issues/81)
+- [82.源码实现系列-promise](https://github.com/ChickenDreamFactory/fe-chicken/issues/82)
 
 
 
