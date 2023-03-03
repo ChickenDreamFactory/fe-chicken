@@ -116,6 +116,14 @@
 - [93.从URL输入到页面渲染](https://github.com/ChickenDreamFactory/fe-chicken/issues/93)
 - [94.vm.$mount(el)做了什么](https://github.com/ChickenDreamFactory/fe-chicken/issues/94)
 - [95.Object的变化侦测](https://github.com/ChickenDreamFactory/fe-chicken/issues/95)
+- [96.Array的变化侦测](https://github.com/ChickenDreamFactory/fe-chicken/issues/96)
+
+## 前端
+
+- [97.插入排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/97)
+- [98.快速排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/98)
+- [99.冒泡排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/99)
+- [100.选择排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/100)
 
 
 
