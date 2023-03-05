@@ -1,6 +1,6 @@
 # fe-chicken
 
-场景代码题-API实现原理-实战题目  💬 微信交流: xiaoda0423⚡ 👉 如果你有问题
+✨✨✨ 集锦 前端JavaScript 手写题，编程题，Not just for interviews  💬 微信交流: xiaoda0423⚡ 👉 如果你有问题
 
 <img width="300px" src="https://user-images.githubusercontent.com/59645426/189252658-27a74605-ecdc-469a-a032-dcd767aeb06d.png"/>
 
@@ -124,6 +124,11 @@
 - [98.快速排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/98)
 - [99.冒泡排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/99)
 - [100.选择排序](https://github.com/ChickenDreamFactory/fe-chicken/issues/100)
+- [101.设计模式](https://github.com/ChickenDreamFactory/fe-chicken/issues/101)
+- [102.OSI的7层模型和TCP与IP的4层模型](https://github.com/ChickenDreamFactory/fe-chicken/issues/102)
+- [103.说说UDP和TCP的区别及应用场景](https://github.com/ChickenDreamFactory/fe-chicken/issues/103)
+- [104.WebSocket](https://github.com/ChickenDreamFactory/fe-chicken/issues/104)
+
 
 
 
